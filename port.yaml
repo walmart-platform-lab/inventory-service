@@ -1,0 +1,8 @@
+identifier: inventory-service
+title: Inventory Service
+blueprint: service
+properties:
+  language: python
+  tier: tier2
+relations:
+  owner: team-fulfillment
