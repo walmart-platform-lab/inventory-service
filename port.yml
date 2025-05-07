@@ -1,4 +1,4 @@
-identifier: inventory-service
+identifier: inventory-service 
 title: Inventory Service
 blueprint: service
 properties:
