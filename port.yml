@@ -3,6 +3,6 @@ title: Inventory Service
 blueprint: service
 properties:
   language: python
-  tier: tier2
+  tier: tier3
 relations:
   owner: team-fulfillment
