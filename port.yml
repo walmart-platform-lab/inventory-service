@@ -4,5 +4,10 @@ blueprint: service
 properties:
   language: python
   tier: tier3
+  readme: .readme
+  freshness: .freshness
+  required_approvals_for_pr: .required_approvals_for_pr
+  require_code_owner_review: .require_code_owner_review
+
 relations:
   owner: team-fulfillment
